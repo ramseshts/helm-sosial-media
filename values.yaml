@@ -1,4 +1,7 @@
-onfigMap:
+namespace:
+  namespace: devops-ramses
+
+configMap:
   name: chart-cm-sosmed
 
 labels:
